@@ -1,0 +1,2 @@
+// Team Service
+module.exports = {};

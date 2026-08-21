@@ -1,0 +1,2 @@
+// Quiz Controller
+module.exports = {};

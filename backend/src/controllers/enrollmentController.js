@@ -1,0 +1,2 @@
+// Enrollment Controller
+module.exports = {};

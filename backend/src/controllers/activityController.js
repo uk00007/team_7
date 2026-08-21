@@ -1,0 +1,2 @@
+// Activity Controller
+module.exports = {};

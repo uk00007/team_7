@@ -1,0 +1,2 @@
+// Team Controller
+module.exports = {};

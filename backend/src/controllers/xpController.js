@@ -1,0 +1,2 @@
+// XP Controller
+module.exports = {};

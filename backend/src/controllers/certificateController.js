@@ -1,0 +1,2 @@
+// Certificate Controller
+module.exports = {};

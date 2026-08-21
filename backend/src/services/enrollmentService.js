@@ -1,0 +1,2 @@
+// Enrollment Service
+module.exports = {};

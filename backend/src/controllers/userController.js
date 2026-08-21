@@ -1,0 +1,2 @@
+// User Controller
+module.exports = {};

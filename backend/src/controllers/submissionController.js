@@ -1,0 +1,2 @@
+// Submission Controller
+module.exports = {};

@@ -1,0 +1,2 @@
+// Activity Service
+module.exports = {};

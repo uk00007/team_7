@@ -1,0 +1,2 @@
+// Gamification Service
+module.exports = {};

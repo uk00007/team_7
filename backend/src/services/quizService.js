@@ -1,0 +1,2 @@
+// Quiz Service
+module.exports = {};
